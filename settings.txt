@@ -1,0 +1,13 @@
+{ 
+  "headless" : false,
+  "delay" : 1,
+  "country" : "AU",
+  "results_language" : "EN",
+  "interface_language" : "EN",
+  "from" : "beliaev.pavlo@gmail.com",
+  "login" : "beliaev.pavlo",
+  "password" : "the_password",
+  "to" : "a.agency@ukr.net",
+  "subject" : "google search"
+}
+
