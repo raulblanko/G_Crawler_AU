@@ -1,0 +1,6 @@
+#Autosave files
+*~
+
+# Build results
+Build*/
+*.rar

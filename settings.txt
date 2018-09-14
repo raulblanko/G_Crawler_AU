@@ -1,6 +1,7 @@
 { 
   "headless" : false,
   "delay" : 1,
+  "local": true,
   "country" : "AU",
   "results_language" : "EN",
   "interface_language" : "EN",

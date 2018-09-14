@@ -1,10 +1,11 @@
-﻿中國的人權
-
-science chemistry
-football
-
-marry christmas
-
-小熊維尼
-
-4jhgj3hjgj3jhg4hj3ghj3gjh4
+﻿we are the champions -queen DTRANGE:12.12.2012-11.11.2016
+we are the champions -queen SORT:D DTRANGE:12.12.2012-11.11.2016
+sydneytoday 招聘信息 火锅
+sydneytoday 招聘信息 火锅 SORT:D DTRANGE:last 1 day
+something fine VERBATIM:1 DTRANGE:10.10.2000-11.11.2005
+something fine SORT:D VERBATIM:1 DTRANGE:10.10.2000-11.11.2005
+site:wikipedia.org leicester city SORT:D DTRANGE:last 5 days
+site:wikipedia.org leicester city VERBATIM:1 DTRANGE:last 5 days
+site:wikipedia.org leicester city SORT:D VERBATIM:1 DTRANGE:last 5 days
+track
+track VERBATIM:1
